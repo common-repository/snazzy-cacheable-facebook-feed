@@ -1,0 +1,236 @@
+#sff-main-widget {
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+}
+.sff-profile-name {
+    width: 78%;
+    display: inline-block;
+}
+.sff-profile-thumb {
+    display: inline-block;
+    vertical-align: top;
+    width: 19%;
+}
+.sff-profile-thumb img {
+	width:100%;
+}
+.feed-item {
+    border-bottom: 1px solid rgba(0,0,0,0.4);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.sff-left-side {
+    width: 40%;
+    display: inline-block;
+}
+.sff-right-side {
+    width: 55%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+}
+.feed-pic {
+    width: 100%;
+}
+.sff-admin-options {
+    display: inline-block;
+}
+.sff-main-link {
+    text-decoration: none;
+    font-weight: bold;
+}
+.the-name {
+    display: inline-block;
+    vertical-align: top;
+}
+.the-profile-pic {
+    display: inline-block;
+}
+.the-date {
+    font-size: x-small;
+    color:rgba(0,0,0,0.7);
+}
+.sff-likes {
+    height: 1em;
+    display: inline-block;
+}
+
+img.facebook-like-icon {
+    height: 100%;
+}
+
+.sff-shares {
+    height: 1em;
+    display: inline-block;
+}
+
+img.facebook-share-icon {
+    height: 100%;
+}
+.back-facing-small {
+	width:250px;
+}
+.back-facing-medium {
+	width:400px;
+}	
+.back-facing-large {
+	width:700px;
+}
+.sff-right-content {
+    display: inline-block;
+    width: 81%;
+}
+
+.the-date {
+    font-size: 0.8em;
+    line-height: 1.1em;
+    color: rgba(0,0,0,0.5);
+}
+
+#sff-main-widget {
+    font-size: 16px;
+}
+
+.sff-main-link {
+    font-size: 1.1em;
+    line-height: 1em;
+}
+
+.sff-message {
+    font-size: 0.85em;
+    margin-top: 1em;
+}
+
+.feed-pic {
+    margin: 0.5em 0;
+}
+.facebook-like-icon, .facebook-share-icon {
+    width: auto;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sff-likes, .sff-shares {
+    height: 1.5em;
+    display: inline-block;
+}
+
+.sff-feed-item {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.sff-event-details {
+    font-size: 0.8em;
+    width: 80%;
+    display: inline-block;
+    vertical-align: middle;
+    /* margin-bottom: 20px; */
+}
+
+.sff-event-date {
+    width: 17%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sff-event-date-month {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    color: #fa3e3e;
+    line-height: 1em;
+}
+.sff-event-wrapper {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.sff-profile-thumb img {
+    max-width: 100%;
+}
+.ssf-error-message {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    color: red;
+}
+.sff-instructions {
+    width: 482px;
+}
+.sff-left-side {
+	width:500px;
+	display:inline-block;
+}
+.sff-instructions {
+    width: 452px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+}
+.sff-admin-options fieldset {
+    margin: 10px 0;
+}
+.sff-proportion {
+    position: relative;
+    width: 100%;
+    padding-bottom: 52%;
+}
+.sff-picture-in-cover {
+    position: absolute;
+    top: 7px;
+    width: 20%;
+    border: 2px solid white;
+    left: 7px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+}
+.sff-the-cover {
+    position: relative;
+    margin-bottom: 10px;
+}
+.sff-profile-name-head {
+    position: absolute;
+    top: 8px;
+    left: 28%;
+}
+.sff-profile-name-head a {
+    color: white;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+}
+.sff-total-likes {
+    color: white;
+    font-size: 12px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+}
+.sff-like-page {
+    left: 8px;
+    width: 34%;
+}
+.sff-social-button img {
+    width: 18%;
+    display: inline-block;
+    float: left;
+}
+.sff-social-button {
+	position: absolute;
+    font-size: 12px;
+    bottom: 5px;
+    background-color: white;
+    padding: 3px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+}
+.sff-share-page {
+    right: 8px;
+    width: 24%;
+}
+.sff-share-page img {
+    width: 20%;
+}

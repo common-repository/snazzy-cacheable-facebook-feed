@@ -1,0 +1,4 @@
+[30-Dec-2016 14:35:44 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/lucas/public_html/sacred-invitations/wp-content/plugins/snazzy-facebook/functions/save-to-cache.php on line 62
+[30-Dec-2016 14:37:01 America/Denver] PHP Warning:  Missing argument 1 for sff_fetchUrl(), called in /home/lucas/public_html/sacred-invitations/wp-content/plugins/snazzy-facebook/functions/save-to-cache.php on line 116 and defined in /home/lucas/public_html/sacred-invitations/wp-content/plugins/snazzy-facebook/functions/save-to-cache.php on line 3
+[30-Dec-2016 15:38:51 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/lucas/public_html/sacred-invitations/wp-content/plugins/snazzy-facebook/functions/save-to-cache.php on line 244
+[30-Dec-2016 15:40:51 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/lucas/public_html/sacred-invitations/wp-content/plugins/snazzy-facebook/functions/save-to-cache.php on line 244
